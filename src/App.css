@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.heading {
+  width: 300px;
+  text-align: center;
+  color: rgb(238, 238, 241);
+  border: 3px solid rebeccapurple;
+  border-radius: 20px;
+  padding: 5px 20px 10px 20px;
+  box-shadow: 0px 0px 10px 5px rebeccapurple;
+  text-shadow: 0px 0px 5px rebeccapurple;
+  background: #000;
+}
+
+.event-card {
+  width: 200px;
+  border: #000 solid 1px;
+  color: red;
+}
+
+.message {
+  font-size: 50px;
+  color: rgb(8, 8, 243);
+}
