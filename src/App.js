@@ -24,11 +24,12 @@ function App() {
         place="Tobolsk"
       />
       <EventCard number="2" myEvent="dsfdrfgh" myDate="27.07.24" place="EKB" />
-      <Message message="Домашнее задание Семинар 1" />
+
 
       <TextInput />
       <TodoList />
       <Timer /> */}
+      <Message message="Домашнее задание Семинар 1" />
       <CommentsList />
     </div>
   );
